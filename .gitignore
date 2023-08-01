@@ -2,4 +2,6 @@ venv
 .pytest_cache
 .idea
 
+super_collider_src/output.scd
+
 **/*.pyc
